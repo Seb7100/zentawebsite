@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "txt": "Happy Clients",
+    "value": "79"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "txt": "Completed Projects",
+    "value": "23"
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-cloud-download",
+    "txt": "Page Views in Total",
+    "value": "142.304"
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-medal",
+    "txt": "Designs created",
+    "value": "451"
+  }
+]

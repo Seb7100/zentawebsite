@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing",
+        "icon": "pe-7s-global",
+        "content": "We boost your online presence with professional digital marketing."
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "icon": "pe-7s-browser",
+      "content": "Our listing websites promotes and increases user engagement significantly."
+    },
+    {
+      "id": 3,
+      "title": "Graphic Design",
+      "icon": "pe-7s-magic-wand",
+      "content": "We are masters in design. We create graphic designs that will concur with your brand."
+    }
+]

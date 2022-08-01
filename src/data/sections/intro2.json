@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Digital Solutions",
+      "second": "For the real estate industry"
+    },
+    "image": "/img/slid/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Tailored solutions",
+      "second": "for your needs"
+    },
+    "image": "/img/slid/4.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Our solutions attract",
+      "second": "potential buyers"
+    },
+    "image": "/img/slid/5.jpg"
+  }
+]

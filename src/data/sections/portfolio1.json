@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas/Havneoen.jpg",
+    "title": "Havneoen Vejle",
+    "tags": ["Web development"],
+    "filterCategory": ["graphic"],
+    "dk": "/img/portfolio/curs/denmark.png"
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/Nicolinehus.webp",
+    "title": "Nicolinehus",
+    "tags": ["Web development"],
+    "filterCategory": ["web"],
+    "dk": "/img/portfolio/curs/denmark.png"
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/Remien.webp",
+    "title": "Remien",
+    "tags": ["Web development & Marketing"],
+    "filterCategory": ["brand"],
+    "dk": "/img/portfolio/curs/denmark.png"
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/maze.png",
+    "title": "Maze Square",
+    "tags": ["Branding & Webdevelopment"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/Remmerslund.jpg",
+    "title": "Skovby Have",
+    "tags": ["Web Development"],
+    "filterCategory": ["web"],
+    "dk": "/img/portfolio/curs/denmark.png"
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/Grundehvidbjerg.png",
+    "title": "Hvidbjerg",
+    "tags": ["Web development"],
+    "filterCategory": ["brand"],
+    "dk": "/img/portfolio/curs/denmark.png"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/seb.png",
+    "name": "Sebastian S.",
+    "title": "Web Developer & Graphic Design",
+    "link": "https://www.linkedin.com/in/sebastian-stokkendal/"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/marcus.png",
+    "name": "Marcus V.",
+    "title": "Digital Marketing & Graphic Design",
+    "link": "https://www.linkedin.com/in/marcus-volsted/"
+  }
+]

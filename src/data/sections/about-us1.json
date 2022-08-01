@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image1": "/img/intro/1.webp",
+  "image2": "/img/intro/4.png",
+  "image3": "/img/intro/2.jpg",
+  "smallTitle": "Why work with us?",
+  "title": { "first": "Our solutions attract", "second": "potential buyers." },
+  "content": "With a listing website from Zentaweb, you get the opportunity to attract potential buyers and bring them further in the buying process. A modern project website forms the basis of the inspiration phase for potential buyers / tenants. The site provides visibility on Google while giving visitors easy access to most information about your listings.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "gleam",
+      "name": { "first": "Professional", "second": "design" }, 
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "paint-bucket",
+      "name": { "first": "Smart", "second": "overview" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "medal",
+      "name": { "first": "Smart housing", "second": "Overview" },
+      "wowDelay": ".8s"
+    }
+  ]
+}

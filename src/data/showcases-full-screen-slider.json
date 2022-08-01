@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Nicolinehus", "second": "Aarhus" },
+    "image": "/img/portfolio/full/Nicolinehus.webp",
+    "sub": "Design",
+    "link": "cases/nicolinehus"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Havneoen", "second": "Vejle" },
+    "image": "/img/portfolio/full/Havneoen.jpg",
+    "sub": "Design",
+    "link": "cases/havneoen"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Remien", "second": "Apartments" },
+    "image": "/img/portfolio/full/Remien.webp",
+    "sub": "Design",
+    "link": "cases/remien"
+  }
+]

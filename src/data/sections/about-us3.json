@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "image1": "/img/intro/PC.png",
+    "image2": "/img/intro/PC2.png",
+    "image3": "/img/intro/2.jpg",
+    "smallTitle": "More leads",
+    "title": { "first": "Give greater details", "second": "with a listing website." },
+    "content": "In today’s digital era, it’s essential for real estate agents to have an online presence. We give you the freedom to include as much information as you want. Whether it is a more detailed description, high-quality photos or a virtual tour. These are elements that all serve to build credibility.",
+    "features": [
+      {
+        "id": 1,
+        "icon": "gleam",
+        "name": { "first": "Real estate", "second": "Listings" }, 
+        "wowDelay": ".3s"
+      },
+      {
+        "id": 2,
+        "icon": "paint-bucket",
+        "name": { "first": "Webpage for each", "second": "listing" },
+        "wowDelay": ".5s"
+      },
+      {
+        "id": 3,
+        "icon": "medal",
+        "name": { "first": "Smart housing", "second": "Overview" },
+        "wowDelay": ".8s"
+      }
+    ]
+  }
+  
